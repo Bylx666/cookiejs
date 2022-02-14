@@ -1,0 +1,24 @@
+{
+  "name": "iicookie",
+  "version": "1.0.1",
+  "description": "fork from MDN and realize it in nodejs",
+  "main": "cookie.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bylx666/cookiejs.git"
+  },
+  "keywords": [
+    "cookie",
+    "frontend",
+    "MDN"
+  ],
+  "author": "MDN, subkey",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Bylx666/cookiejs/issues"
+  },
+  "homepage": "https://github.com/Bylx666/cookiejs#readme"
+}
