@@ -1,6 +1,6 @@
 {
   "name": "iicookie",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "fork from MDN and realize it in nodejs",
   "main": "cookie.js",
   "scripts": {
